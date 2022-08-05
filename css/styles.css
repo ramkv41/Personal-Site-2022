@@ -1,12 +1,25 @@
 body{
 margin: 0px;
 text-align: center;
+font-family: 'Merriweather', serif;
 }
 
 h1{
     
    margin-top: 0;
+   font-family: 'Sacramento', cursive;
 }
+
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+}
+h3{
+
+    font-family: 'Montserrat', sans-serif;
+}
+
 span {
     font-style: italic;
 }
@@ -18,13 +31,13 @@ padding-top: 100px;
 }
 
 .middle-container {
-    background-color: #E4F9F5;
+    
 
 
 }
 
 .bottom-container {
-    background-color: #E4F9F5;
+   
     
 
 }
