@@ -36,14 +36,14 @@ hr{
 
 .profile-photo{
 
-    width: 10%;
+    width: 20%;
     
     border-radius: 50%;
 }
 
 .skills-photo{
 
-    width: 15%;
+    width: 20%;
     float: left;
     margin-right: 30px;
 }
