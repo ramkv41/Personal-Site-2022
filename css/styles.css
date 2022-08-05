@@ -18,18 +18,20 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
-    font-weight: normal;    
+    font-weight: bold;    
 }
 h3{
-
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
+    font-weight: bold;
 }
 
-
-a{
-    color: #11999E;
-
+hr{
+    color: #EAF6F6;
+    height: 10px;
+    width: 5%;
+    border-style: dotted;
+    border-top-width: 10px;
 }
 
 .profile-photo{
@@ -87,41 +89,42 @@ p{
 
 .bottom-container {
    
-    
-
+background-color: #66BFBF;
+padding: 20px;
 }
 
 .btn {
-    background: #66BFBF;
-    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
-    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
-    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
-    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
-    background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
-    -webkit-border-radius: 10;
-    -moz-border-radius: 10;
-    border-radius: 10px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
     font-family: Arial;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    
-  }
-  
+    display: inline-block;
+    margin: 75px;
+}
+
   .btn:hover {
-    background: #40514E;
-    background-image: -webkit-linear-gradient(top, #40514E, #40514E);
-    background-image: -moz-linear-gradient(top, #40514E, #40514E);
-    background-image: -ms-linear-gradient(top, #40514E, #40514E);
-    background-image: -o-linear-gradient(top, #40514E, #40514E);
-    background-image: linear-gradient(to bottom, #40514E, #40514E);
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, 2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, 2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, 2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, 2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, 2bc4ad);
     text-decoration: none;
   }
 
 .contact-me{
 
-    margin: 30px;
+   
 }
 .top-cloud{
     position: absolute;
@@ -135,4 +138,17 @@ p{
     bottom-margin: 300px;
     
 }
-
+.footer-link{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 20px;
+    display: inline-block;
+}
+.copyright{
+    color: #EAF6F6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:20px;
+    
+}
