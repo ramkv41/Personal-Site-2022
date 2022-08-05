@@ -31,6 +31,19 @@ a{
     color: #11999E;
 
 }
+
+.profile-photo{
+
+    width: 20%;
+    height: 20%;
+}
+
+.skills-photo{
+
+    width: 20%;
+    height: 20%;
+}
+
 .top-container {
 background-color: #E4F9F5;
 position: relative;
