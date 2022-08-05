@@ -13,13 +13,12 @@ background-color: #E4F9F5;
 }
 
 .middle-container {
-background-color: red;
-width: 200px;
-height: 200px;
+    background-color: #E4F9F5;
+
+
 }
 
 .bottom-container {
-background-color: blue;
-width: 200px;
-height: 200px;
+    background-color: #E4F9F5;
+
 }
