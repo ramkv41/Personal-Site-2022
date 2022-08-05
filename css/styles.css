@@ -1,15 +1,20 @@
 body{
 margin: 0px;
+text-align: center;
 }
 
 h1{
-    margin-top: 0px;
-    margin-bottom: 0px;
+    
+   margin-top: 0;
+}
+span {
+    font-style: italic;
 }
 
 .top-container {
 background-color: #E4F9F5;
-
+position: relative;
+padding-top: 100px;
 }
 
 .middle-container {
@@ -20,5 +25,19 @@ background-color: #E4F9F5;
 
 .bottom-container {
     background-color: #E4F9F5;
+    
 
 }
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300 px;
+    bottom-margin: 300px;
+    
+}
+
