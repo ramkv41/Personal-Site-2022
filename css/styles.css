@@ -5,25 +5,32 @@ font-family: 'Merriweather', serif;
 }
 
 h1{
-    
-   margin-top: 0;
+    font-size: 5.625rem;       
+   margin: 50px auto 0 auto;
    font-family: 'Sacramento', cursive;
+   color: #66BFBF;
+   line-height: 2;
+   
 }
 
 h2{
 
     font-family: 'Montserrat', sans-serif;
-    font-size: 2em;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;    
 }
 h3{
 
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
 }
 
-span {
-    font-style: italic;
-}
 
+a{
+    color: #11999E;
+
+}
 .top-container {
 background-color: #E4F9F5;
 position: relative;
